@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/humzamedicalcare/static/css/main.4d283626.chunk.css",
+    "main.js": "/humzamedicalcare/static/js/main.27a6ffa8.chunk.js",
+    "main.js.map": "/humzamedicalcare/static/js/main.27a6ffa8.chunk.js.map",
+    "runtime-main.js": "/humzamedicalcare/static/js/runtime-main.3d247b1a.js",
+    "runtime-main.js.map": "/humzamedicalcare/static/js/runtime-main.3d247b1a.js.map",
+    "static/js/2.8063597f.chunk.js": "/humzamedicalcare/static/js/2.8063597f.chunk.js",
+    "static/js/2.8063597f.chunk.js.map": "/humzamedicalcare/static/js/2.8063597f.chunk.js.map",
+    "index.html": "/humzamedicalcare/index.html",
+    "static/css/main.4d283626.chunk.css.map": "/humzamedicalcare/static/css/main.4d283626.chunk.css.map",
+    "static/js/2.8063597f.chunk.js.LICENSE.txt": "/humzamedicalcare/static/js/2.8063597f.chunk.js.LICENSE.txt",
+    "static/media/Aliya.9c41adc5.JPG": "/humzamedicalcare/static/media/Aliya.9c41adc5.JPG",
+    "static/media/Avinash.13d99a8b.jpg": "/humzamedicalcare/static/media/Avinash.13d99a8b.jpg",
+    "static/media/Geethi Puthiyatath.e6f129bf.png": "/humzamedicalcare/static/media/Geethi Puthiyatath.e6f129bf.png",
+    "static/media/Haarith.ab0f0959.jpg": "/humzamedicalcare/static/media/Haarith.ab0f0959.jpg",
+    "static/media/humza.436561d7.jpg": "/humzamedicalcare/static/media/humza.436561d7.jpg",
+    "static/media/ismail.a42f56dc.JPG": "/humzamedicalcare/static/media/ismail.a42f56dc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d247b1a.js",
+    "static/js/2.8063597f.chunk.js",
+    "static/css/main.4d283626.chunk.css",
+    "static/js/main.27a6ffa8.chunk.js"
+  ]
+}
