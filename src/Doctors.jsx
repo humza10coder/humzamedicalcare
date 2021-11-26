@@ -5,14 +5,10 @@ import Aliya from "./Aliya.JPG";
 import Avinash from "./Avinash.jpg";
 import Haarith from "./Haarith.jpg";
 import Geethi from "./Geethi Puthiyatath.png";
-import Navbar from "./Navbar";
-import Carousel from "./Carousel";
 function Doctors()
 {
     return(
         <>
-        <Navbar/>
-        <Carousel/>
         <div className="container">
             <div className="card-deck">
                 <div className="card">

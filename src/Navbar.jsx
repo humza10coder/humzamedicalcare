@@ -4,10 +4,6 @@ function Navbar()
 {
     return(
               <>
-              <br/>
-              <br/>
-              <br/>
-
                 <nav className="navbar navbar-expand-md" style={{backgroundColor:"orangered",color:"white",fontSize:"40px"}}>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span className="navbar-toggler-icon"></span>
@@ -24,7 +20,7 @@ function Navbar()
         <NavLink className="nav-link text-white" to="/about">About us</NavLink>
       </li>
       <li className="nav-item dropdown">
-        <NavLink className="nav-link text-white dropdown-toggle" data-toggle="dropdown" to="/dept">Departments</NavLink>
+        <NavLink className="nav-link text-white" to="/dept">Departments</NavLink>
       </li>
       <li className="nav-item">
         <NavLink className="nav-link text-white" to="/doctors">Doctors</NavLink>

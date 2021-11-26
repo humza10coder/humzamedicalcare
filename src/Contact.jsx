@@ -1,12 +1,8 @@
 import React from "react";
-import Carousel from "./Carousel";
-import Navbar from "./Navbar";
 function Contact()
 {
     return(
         <>
-        <Navbar/>
-        <Carousel/>
         <div className="container">
         <div className="card-deck">
         <div className="card">

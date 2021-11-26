@@ -1,13 +1,10 @@
 import React from "react"
-import Navbar from "./Navbar";
-import Carousel from "./Carousel";
 import Ismail from "./ismail.JPG"
 function Ds()
 {
     return(
            <>
-            <Navbar/>
-            <Carousel/>
+
             <br/>
             <br/>
             <br/>

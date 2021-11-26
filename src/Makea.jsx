@@ -1,12 +1,8 @@
 import React from "react";
-import Carousel from "./Carousel";
-import Navbar from "./Navbar";
 function Makea()
 {
     return(
         <>
-        <Navbar/>
-        <Carousel/>
         <br/>
         <br/>
         <br/>

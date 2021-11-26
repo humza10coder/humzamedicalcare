@@ -1,12 +1,8 @@
 import React from "react";
-import Navbar from "./Navbar"
-import Carousel from "./Carousel";
 function Au()
 {
     return(
               <>
-                <Navbar/>
-                <Carousel/>
                 <br/><br/><br/><br/><br/>
                 <div className="container">
                 <div class="card-deck">
