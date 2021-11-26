@@ -22,7 +22,7 @@ function App() {
             <Route exact path="/doctors" component={Doctors}/>
             <Route exact path="/contact" component={Contact}/>
             <Route exact path="/makea" component={Makea}/>
-            <Route component={Errorpage}/>
+            <Route component={Home}/>
        </Switch>
       </>
   );
